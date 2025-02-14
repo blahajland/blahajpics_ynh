@@ -48,9 +48,7 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://framagit.org/fiat-tux/hat-softwares/lutim/-/archive/0.17.0/lutim-0.17.0.tar.bz2"
-        sha256 = "cd42bf93498121d90584a749db11901af5360c8e0de948b294c3bf44d287749f"
-        autoupdate.strategy = "latest_gitlab_release"
+        url = "https://github.com/blahajland/blahaj.pics/archive/refs/tags/0.17.0.tar.gz"
 
     [resources.ports]
 
