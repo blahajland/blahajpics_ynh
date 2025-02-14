@@ -29,7 +29,7 @@
 
     # choose a theme. See the available themes in `themes` directory
     # optional, default is 'default'
-    #theme         => 'default',
+    theme         => 'korrigan',
 
     # length of the images random URL
     # optional, default is 8
