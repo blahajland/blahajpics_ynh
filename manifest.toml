@@ -49,6 +49,7 @@ ram.runtime = "50M"
 [resources]
         [resources.sources.main]
         url = "https://github.com/blahajland/blahaj.pics/archive/refs/tags/0.17.0.tar.gz"
+        sha256 = "8ceb1e807b36736aef166b8050f747971c7c14b549793413c56abe9befe49844"
 
     [resources.ports]
 
