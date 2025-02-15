@@ -48,8 +48,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://objects.githubusercontent.com/github-production-release-asset-2e65be/931010077/a016684f-42e4-4b0b-b93e-cc56a8b4615f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250214%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250214T233511Z&X-Amz-Expires=300&X-Amz-Signature=a2dbfc081322f990fb8c9941790143b1e3a633211e3470d08ccbf43101edf191&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dblahaj.pics.tar.gz&response-content-type=application%2Foctet-stream"
-        sha256 = "11096b8723bbd80e9cf97d4f6381f30332a278b1c0b24bea54b7c15f2070a0cd"
+        url = "https://github.com/blahajland/blahaj.pics/archive/refs/tags/0.17.0bl.tar.gz"
+        sha256 = "c65e3f182f1fad317b5d358300d4e5e044fc819b2f236b4936f40a62277f9cc6"
 
     [resources.ports]
 
